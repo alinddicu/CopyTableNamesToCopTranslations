@@ -1,0 +1,2 @@
+# CopyTableNamesToCopTranslations
+Esker work tool
