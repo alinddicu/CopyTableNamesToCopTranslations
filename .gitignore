@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CopyTableNamesToCopTranslations/.vs/CopyTableNamesToCopTranslations/v15/Server/sqlite3
+/CopyTableNamesToCopTranslations/CopyTableNamesToCopTranslations.Core/bin/Debug
+/CopyTableNamesToCopTranslations/CopyTableNamesToCopTranslations.Core.Tests/bin/Debug
+/CopyTableNamesToCopTranslations/CopyTableNamesToCopTranslations.Core.Tests/obj/Debug
+/CopyTableNamesToCopTranslations/CopyTableNamesToCopTranslations.Program/bin/Debug
+/CopyTableNamesToCopTranslations/CopyTableNamesToCopTranslations.Program/obj
+/CopyTableNamesToCopTranslations/CopyTableNamesToCopTranslations.Program.AutomaticDI/bin/Debug
+/CopyTableNamesToCopTranslations/CopyTableNamesToCopTranslations.Program.AutomaticDI/obj
+/CopyTableNamesToCopTranslations/CopyTableNamesToCopTranslations.Web/bin/Debug/netcoreapp2.1
+/CopyTableNamesToCopTranslations/CopyTableNamesToCopTranslations.Web/obj
+/CopyTableNamesToCopTranslations/packages
+*.orig
+/CopyTableNamesToCopTranslations/.vs/CopyTableNamesToCopTranslations/v15
+/CopyTableNamesToCopTranslations/CopyTableNamesToCopTranslations.Core/obj
