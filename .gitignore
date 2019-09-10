@@ -16,3 +16,4 @@
 *.orig
 /CopyTableNamesToCopTranslations/.vs/CopyTableNamesToCopTranslations/v15
 /CopyTableNamesToCopTranslations/CopyTableNamesToCopTranslations.Core/obj
+/CopyTableNamesToCopTranslations/.vs/config
