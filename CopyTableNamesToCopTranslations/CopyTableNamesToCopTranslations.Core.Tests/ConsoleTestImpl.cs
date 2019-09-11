@@ -1,4 +1,4 @@
-﻿namespace CopyTableNamesToCopTranslations.Tests
+﻿namespace CopyTableNamesToCopTranslations.Core.Tests
 {
 	using CopyTableNamesToCopTranslations.Core.Tools;
 
