@@ -42,7 +42,7 @@
 				{
 					var tableDirectoryName = Path.GetFileName(directory);
 					var tableProcessName = tableDirectoryName.TrimStart('_');
-					var tableLanguageFile = $@"D:\DEV\EOD\Delivery\Packages\O2C\SOP\SOP Generic\Pack B\{tableDirectoryName}\lg\process_{copLanguage}.xml";
+					var tableLanguageFile = $@"{_packBPath}\{tableDirectoryName}\lg\process_{copLanguage}.xml";
 					if (!File.Exists(tableLanguageFile))
 					{
 						gotoNextLanguage = true;
@@ -95,9 +95,9 @@
 			}
 		}
 
-		private static void AppendNewCtTranslationsToCopTranslations(IEnumerable<TranslateItem> newTableTranslatedItems, string copLanguage)
+		private void AppendNewCtTranslationsToCopTranslations(IEnumerable<TranslateItem> newTableTranslatedItems, string copLanguage)
 		{
-			var copLanguageFile = $@"D:\DEV\EOD\Delivery\Packages\O2C\SOP\SOP Generic\Pack B\Customer Order Processing\lg\process_{copLanguage}.xml";
+			var copLanguageFile = $@"{_copLanguageFolder}\process_{copLanguage}.xml";
 			var allCopTranslations = GetAllCopTranslations(copLanguageFile);
 			var newNonExistingTableTranslatedItems = newTableTranslatedItems.Where(ti => allCopTranslations.items.All(ti2 => ti.key != ti2.key));
 			allCopTranslations.items.AddRange(newNonExistingTableTranslatedItems);

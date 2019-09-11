@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TranslateCollection frozen="false">
+	<items>
+		<TranslateItem>
+			<key>_Alert on duplicates changed {0}</key>
+			<val>Ces options ont changé. Pour cette commande, le seuil de signalement de doublons était initialement défini à '{0}'.</val>
+		</TranslateItem>
+	</items>
+</TranslateCollection>

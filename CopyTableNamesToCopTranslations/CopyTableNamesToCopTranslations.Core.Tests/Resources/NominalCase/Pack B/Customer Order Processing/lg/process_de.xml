@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TranslateCollection frozen="false">
+	<items>
+		<TranslateItem>
+			<key>_Alert on duplicates changed {0}</key>
+			<val>Diese Optionen haben sich geändert. Die Duplikatmeldung war für diesen Auftrag ursprünglich auf '{0}' eingestellt.</val>
+		</TranslateItem>
+	</items>
+</TranslateCollection>

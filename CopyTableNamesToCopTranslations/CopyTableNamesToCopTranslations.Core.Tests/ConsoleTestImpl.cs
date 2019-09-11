@@ -1,6 +1,6 @@
 ﻿namespace CopyTableNamesToCopTranslations.Tests
 {
-	using CopyTableNamesToCopTranslations.Tools;
+	using CopyTableNamesToCopTranslations.Core.Tools;
 
 	using System;
 	using System.Collections.Generic;

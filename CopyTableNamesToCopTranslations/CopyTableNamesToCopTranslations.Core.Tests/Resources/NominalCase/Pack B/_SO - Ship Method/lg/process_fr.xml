@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TranslateCollection frozen="false">
+	<items>
+		<TranslateItem>
+			<key>Description</key>
+			<val>Description</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship Method Code</key>
+			<val>Code du mode d'expédition</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship Method Meaning</key>
+			<val>Nom</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - ShipMethod</key>
+			<val>SOP - Modes d'expédition</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouse Code</key>
+			<val>Code d'entrepôt</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - ShipMethod__</key>
+			<val>SOP - Modes d'expédition</val>
+		</TranslateItem>
+	</items>
+</TranslateCollection>

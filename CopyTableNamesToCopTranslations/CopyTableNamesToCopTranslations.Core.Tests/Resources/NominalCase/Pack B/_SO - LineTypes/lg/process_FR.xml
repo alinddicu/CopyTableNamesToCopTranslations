@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TranslateCollection frozen="false">
+	<items>
+		<TranslateItem>
+			<key>Item type</key>
+			<val>Type d'article</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line type id</key>
+			<val>Identifiant du type de ligne</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line type name</key>
+			<val>Nom du type de ligne</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Operating Unit</key>
+			<val>Unité opérationnelle</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order type Id</key>
+			<val>Identifiant du type de commande</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order type name</key>
+			<val>Nom du type de commande</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Process name</key>
+			<val>Nom du processus</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - LineTypes</key>
+			<val>SOP - Types de ligne</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order category code</key>
+			<val>Catégorie</val>
+		</TranslateItem>
+	</items>
+</TranslateCollection>

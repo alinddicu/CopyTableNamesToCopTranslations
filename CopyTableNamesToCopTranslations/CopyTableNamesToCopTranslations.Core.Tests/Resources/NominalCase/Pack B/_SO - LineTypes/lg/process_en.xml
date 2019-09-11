@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TranslateCollection frozen="false">
+	<items>
+		<TranslateItem>
+			<key>Item type</key>
+			<val>Item type</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line type id</key>
+			<val>Line type ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line type name</key>
+			<val>Line type name</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Operating Unit</key>
+			<val>Operating Unit</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order type Id</key>
+			<val>Order type ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order type name</key>
+			<val>Order type name</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Process name</key>
+			<val>Process name</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - LineTypes</key>
+			<val>SOP - Line Types</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order category code</key>
+			<val>Category</val>
+		</TranslateItem>
+	</items>
+</TranslateCollection>

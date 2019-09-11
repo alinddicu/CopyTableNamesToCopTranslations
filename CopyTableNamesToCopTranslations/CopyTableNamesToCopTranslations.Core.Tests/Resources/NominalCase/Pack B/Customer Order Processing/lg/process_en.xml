@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TranslateCollection frozen="false">
+	<items>
+		<TranslateItem>
+			<key>_Alert on duplicates changed {0}</key>
+			<val>These options have changed. For this order, the duplicate alert threshold was initially set to '{0}'.</val>
+		</TranslateItem>
+	</items>
+</TranslateCollection>
