@@ -1,4 +1,4 @@
-﻿namespace CopyTableNamesToCopTranslations.Business
+﻿namespace CopyTableNamesToCopTranslations.Core.Business
 {
 	public interface ICopLanguageFolderProvider
 	{

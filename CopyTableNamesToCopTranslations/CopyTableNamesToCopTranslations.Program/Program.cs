@@ -1,6 +1,6 @@
 ﻿namespace CopyTableNamesToCopTranslations.Program
 {
-	using CopyTableNamesToCopTranslations.Business;
+	using CopyTableNamesToCopTranslations.Core.Business;
 
 	public static class Program
 	{

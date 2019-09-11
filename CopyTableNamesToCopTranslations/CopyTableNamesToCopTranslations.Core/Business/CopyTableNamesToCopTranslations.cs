@@ -1,4 +1,4 @@
-﻿namespace CopyTableNamesToCopTranslations.Business
+﻿namespace CopyTableNamesToCopTranslations.Core.Business
 {
 	using Tools;
 	using Xml;

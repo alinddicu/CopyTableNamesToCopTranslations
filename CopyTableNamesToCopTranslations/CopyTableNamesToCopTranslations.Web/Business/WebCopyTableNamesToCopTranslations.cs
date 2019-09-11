@@ -1,7 +1,7 @@
 ﻿namespace CopyTableNamesToCopTranslations.AspNetCore.Business
 {
-	using CopyTableNamesToCopTranslations.Business;
-	using CopyTableNamesToCopTranslations.Tools;
+	using CopyTableNamesToCopTranslations.Core.Business;
+	using CopyTableNamesToCopTranslations.Core.Tools;
 	using System.Collections.Generic;
 
 	public class WebCopyTableNamesToCopTranslations: CopyTableNamesToCopTranslations

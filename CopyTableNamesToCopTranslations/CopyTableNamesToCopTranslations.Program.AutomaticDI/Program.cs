@@ -1,6 +1,6 @@
 ﻿namespace CopyTableNamesToCopTranslations.Program.AutomaticDI
 {
-	using CopyTableNamesToCopTranslations.Business;
+	using CopyTableNamesToCopTranslations.Core.Business;
 	using Ninject;
 	using System.Reflection;
 

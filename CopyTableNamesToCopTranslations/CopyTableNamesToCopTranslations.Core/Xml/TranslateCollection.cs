@@ -1,4 +1,4 @@
-﻿namespace CopyTableNamesToCopTranslations.Xml
+﻿namespace CopyTableNamesToCopTranslations.Core.Xml
 {
 	using System.Collections.Generic;
 	using System.Xml;

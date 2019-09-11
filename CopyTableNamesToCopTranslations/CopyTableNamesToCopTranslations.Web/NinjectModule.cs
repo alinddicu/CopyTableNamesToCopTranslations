@@ -1,8 +1,8 @@
 ﻿namespace CopyTableNamesToCopTranslations.AspNetCore
 {
 	using CopyTableNamesToCopTranslations.AspNetCore.Business;
-	using CopyTableNamesToCopTranslations.Business;
-	using CopyTableNamesToCopTranslations.Tools;
+	using CopyTableNamesToCopTranslations.Core.Business;
+	using CopyTableNamesToCopTranslations.Core.Tools;
 	using Ninject;
 
 	public class NinjectModule

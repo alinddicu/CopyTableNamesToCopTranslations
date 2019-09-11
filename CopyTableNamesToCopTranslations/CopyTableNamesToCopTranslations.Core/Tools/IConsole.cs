@@ -1,4 +1,4 @@
-﻿namespace CopyTableNamesToCopTranslations.Tools
+﻿namespace CopyTableNamesToCopTranslations.Core.Tools
 {
 	using System;
 	using System.Collections.Generic;
