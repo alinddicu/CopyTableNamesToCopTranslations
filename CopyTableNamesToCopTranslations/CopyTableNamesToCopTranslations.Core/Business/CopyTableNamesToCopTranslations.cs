@@ -115,7 +115,7 @@
 			File.WriteAllText(copLanguageFile, allCopTranslationsXml, Encoding.UTF8);
 		}
 
-		private static TranslateCollection GetAllCopTranslations(string copLanguageFile)
+		public static TranslateCollection GetAllCopTranslations(string copLanguageFile)
 		{
 			TranslateCollection allCopTranslations;
 			using (var reader = new FileStream(copLanguageFile, FileMode.Open))
